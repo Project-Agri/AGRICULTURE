@@ -1,0 +1,55 @@
+TESTING:
+-------
+
+* Testing in python is a huge topic and can come with a lot of complexity, but it doesn't need to be hard.
+
+* Testing flow chart will be as follows:
+  
+    requirement analysis
+	  !
+    test plan creation
+	  !
+    test case creation
+	  !
+    test case execution
+	  !
+    defect logging
+	  !
+    defect fix & re-verification
+
+-> Requirement analysis:
+
+* A software requirements specification(SRS) is a document that contains description about how the system is expected to perform. 
+
+  -> Challenges:
+      
+      * we cannot gather all information at one time.
+      * Lots of discussion needed. 
+
+-> Test plan creation:
+
+* It's a document developed by test manager. It is set of ideas that guides and is created to inform all the managers, testers, developer about the testing process.
+
+* It has very high importance. 
+
+* Test plan contains detailed understanding of workflow. It consist test templates which has introduction, scope, test strategy, environment requirements, test schedule, functions to be tested, tools, documentation and approvals.
+
+* Success or failure will depend upon how the test is been carried out. This phase is important in testing software life cycle.
+
+-> Actual testing:
+   --------------
+
+* In this phase, application build is ready and out to find bugs. 
+
+* Testing is a heavy process which itselt is error regrettable. 
+
+-> Before release:
+
+* Before releasing the software in the market, quality of products is ensured. Once a software is built, it is tested several times.
+
+-> Conclusion: 
+
+* The existance of both manual testing and automation testing forces us to think about our choice of tools, thier cost, and the benefit they will provide.
+
+* Manual testing help us understand the entire problem and explore other angels of tests with flexibility. 
+
