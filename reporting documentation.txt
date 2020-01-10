@@ -1,0 +1,87 @@
+                           REPORTING FOR AGRICULTURE DATA
+                ***Here there are 3 states they are Telangana,
+ Andhra Pradesh , Tamilnadu and we are having 28824 rows and 7 columns. 
+There are a total of 54 districts in which Andhra Pradesh has
+ 13 districts, Telangana has 10 districts and Tami Nadu has 31 districts. 
+And the three seasons are Kharif , Rabi and Whole year.
+
+***By using Tableau I created the reports like bar charts,pie charts,graphs,dashbords etc.,
+By using agriculture data.
+
+ 1)Top 5 districts which has highest production:
+Top 5 districts which have maximum production are Coimbatore,
+ Tanjavur, Tiruppur from Tamil Nadu. East Godavari and West Godavari
+ from Andhra Pradesh have taken top 5 places when compared to other years.
+
+2)Top 5 districts which has lowest production:
+Top 5 districts which have minimum production are       
+Adilabad from Telangana.Perambalur ,Pudukkottai 
+,Ramanthapuram from Tamil Nadu. Prakasham from 
+Andhra Pradesh have taken top 5 places when   
+compared to other years.
+
+      Top 5 Crops which has Maximum Area for cultivation
+
+          Groundnut 	    877029
+ 	   Rice		    409286 
+	   Total foodgrain  367554
+           Cotton(lint)	    361169 
+	   Gram		    239387
+
+        Top 15 Crops which have max Production       
+                 
+        Coconut 1250800000 
+        Sugarcane 37158000 
+        Rice 1624324 
+        Tapioca 1237518
+        Groundnut 1102000 
+        Cotton(lint) 1075856 
+        Maize 950884
+        Banana 847531
+        other oilseeds 795569 
+        Mango 663468 
+        Total foodgrain 632920 
+        Mesta 541459
+        Guar seed 454026
+        Onion 436353
+        Gram 412000
+
+         Top 15 Crops which have minimum Production
+
+         Apple 0 
+         Other Fresh Fruits 0 
+         Snak Guard 0 
+         Ribed Guard 0
+         Redish 0
+         Rapeseed &Mustard 0
+         Lab-Lab 0 
+         Pump Kin 0 
+         Linseed 0 
+         Litchi 0
+         Pome Granet 0
+         Plums 0 
+         Peas (vegetable) 0
+         Pear 0
+         Moong(Green Gram) 0
+
+
+Top 5 crops which have used overall maximum area in 17 years
+	
+	Rice            102741891 		
+        Groundnut 	 38568960 		
+        Cotton(lint)	 25860232 		
+          Maize          14954632	
+	  Jowar		 13513919
+
+****maximum production and area:
+      production:1,250,800,000(120M)
+      Area:4.355,718,654,865(4T)
+
+
+
+
+
+          
+
+  
+                                                                        
